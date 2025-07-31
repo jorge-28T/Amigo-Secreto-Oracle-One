@@ -77,5 +77,6 @@ Esta función se ejecuta al hacer clic en el botón de sorteo y selecciona un am
 <ul>
   <li>Los nombres de las funciones <code>agregarAmigo()</code> y <code>sortearAmigo()</code> están vinculados a los eventos <code>onclick</code> definidos en el código HTML, lo que permite que se ejecuten al hacer clic en los botones correspondientes en la interfaz.</li>
 </ul>
-
+<img src="assets/Sorteo.png" alt="Amigo Secreto Screenshot" style="max-width: 100%; display: block; margin: 20px auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+<img src="assets/Validación.png" alt="Amigo Secreto Interface" style="max-width: 100%; display: block; margin: 20px auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 </div>
