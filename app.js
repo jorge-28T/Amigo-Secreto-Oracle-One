@@ -12,7 +12,6 @@ function agregarAmigo() {
         ulListaAmigos.innerHTML += `<li>${inputAmigo.value}</li>`; // Con este código modifico el código HTML de la referencia id = listaAmigos y el += sirve para hacer una lista con el nombre anterior de la correspondiente reasignación de la variable ulListaAmigos.
         inputAmigo.value = ""; // Con esta línea limpiamos la caja de texto para colocar un nuevo nombre.
     }
-    
 }
 
 function sortearAmigo() {
